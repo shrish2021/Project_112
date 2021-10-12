@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background: #c0d3ff;
+}
+
+span {
+    font-size: 30px;
+}
+
+#webcam, #result {
+    border: 2px dashed black;
+    width: 350;
+    height: 300;
+}
+
+#predictionWord1, #predictionWord2 {
+    color: black;
+}
+
+.emotionWord {
+    font-size: 40px;
+}
+
+.emotionEmoji {
+    font-size: 48px;
+}
+
+.heading {
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+
+label {
+    font-size: 14px;
+    color: #62b33a;
+    padding: 6px;
+}
